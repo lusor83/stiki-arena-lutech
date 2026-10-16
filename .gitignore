@@ -1,0 +1,12 @@
+# Configurazione del servizio di hosting esterno
+.openai/
+.sites-checkout/
+.sites-runtime/
+
+# Dipendenze e file locali
+node_modules/
+*.log
+.env
+.env.*
+.DS_Store
+Thumbs.db
